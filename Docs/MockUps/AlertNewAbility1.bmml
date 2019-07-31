@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1193" measuredH="569" mockupW="630" mockupH="441">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="563" y="128" w="630" h="441" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="740" y="128" w="-1" h="-1" measuredW="277" measuredH="41" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>%u041D%u043E%u0432%u0430%u044F%20%u0441%u043F%u043E%u0441%u043E%u0431%u043D%u043E%u0441%u0442%u044C</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="589" y="169" w="579" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="757" y="502" w="243" h="51" measuredW="135" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>%u041F%u0440%u043E%u0434%u043E%u043B%u0436%u0438%u0442%u044C</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::HRule" x="589" y="484" w="579" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="615" y="400" w="512" h="52" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>18</size>
+        <text>%u0422%u0435%u043F%u0435%u0440%u044C%20%u0414%u0436%u0435%u0439%20%u043C%u043E%u0436%u0435%u0442%20%u0431%u0438%u0442%u044C%20%u0445%u0435%u0439%u0442%u0435%u0440%u043E%u0432%20%u0431%u043E%u0442%u0438%u043D%u043A%u043E%u043C.%20%u0411%u043E%u0442%u0438%u043D%u043E%u043A%20%u043D%u0430%u043D%u043E%u0441%u0438%u0442%20%u043E%u0447%u0435%u043D%u044C%20%u043C%u043D%u043E%u0433%u043E%20%u0443%u0440%u043E%u043D%u0430%2C%20%u043D%u043E%20%u0438%20%u043D%u0430%20%u0443%u0434%u0430%u0440%20%u0442%u0440%u0435%u0431%u0443%u0435%u0442%u0441%u044F%20%u043C%u043D%u043E%u0433%u043E%20%u0441%u0438%u043B.</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="589" y="365" w="579" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="586" y="182" w="584" h="178" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="805" y="197" w="146" h="143" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="814" y="204" w="128" h="103" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="813" y="302" w="129" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="845" y="309" w="-1" h="-1" measuredW="65" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%u0411%u043E%u0442%u0438%u043D%u043E%u043A</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::ScratchOut" x="827" y="214" w="102" h="78" measuredW="205" measuredH="107" zOrder="12" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
