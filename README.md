@@ -1,4 +1,4 @@
-![Celebrity Down](https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/0.png&s=200)
+![Celebrity Down](https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/0.png?&s=200)
 
 # celebritydown
 Celebrity Down - indie clicker game (Unity + С#) about new adventures Jay and Silent Bob in the fight ShitTube celebritys. Game Jam 2016.
@@ -9,4 +9,4 @@ Celebrity Down - indie clicker game (Unity + С#) about new adventures Jay and S
 !(https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/7.jpg)
 !(https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/10.jpg)
 
-![alt text](https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/0.png&s=200)
+![alt text](https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/0.png)
