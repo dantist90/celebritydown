@@ -6,3 +6,5 @@ Celebrity Down - indie clicker game (Unity + С#) about new adventures Jay and S
 !(https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/5.jpg)
 !(https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/7.jpg)
 !(https://raw.githubusercontent.com/dantist90/celebritydown/master/Promo/10.jpg)
+
+![alt text](https://avatars2.githubusercontent.com/u/11632545?v=3&s=200)
